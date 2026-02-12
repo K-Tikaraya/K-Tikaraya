@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<h1 align="center">Hey Folks, I'm Kiran 👋</h1>
+<h1 align="center">Hey Folks, I'm Kiran</h1>
 
 <h3 align="center">
   Aspiring Software Developer | AI & RAG Enthusiast
@@ -9,9 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+RAG+Explorer;SWE+Intern+at+Microsoft;Myntra+WeForShe%4025+Winner;" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K-Tikaraya&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 ---
 
