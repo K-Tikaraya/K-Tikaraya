@@ -12,10 +12,44 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+</p>
+
+### 🌐 Full Stack
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🤖 AI & DevOps
+<p>
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+
 ## 👩‍💻 Who Am I
 
 🎓 Final Year B.Tech CSE @ IIEST Shibpur  
-🏆 Myntra WeForShe Hackathon 2025 – National Winner (56K+ participants)  
+
+🏆 Myntra WeForShe Hackathon 2025 – National Winner (56K+ participants) 
+
 <img src="https://img.icons8.com/color/22/microsoft.png"/> Microsoft Software Engineer Intern (2025)  
 
 I am an aspiring **Full Stack Developer** passionate about building scalable backend systems and AI-powered applications.  
@@ -42,27 +76,6 @@ I believe in learning deeply and building things that create real impact.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-
-### 🌐 Full Stack
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
-
-### 🤖 AI & Automation
-![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat&logo=playwright)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-000000?style=flat&logo=azuredevops)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-
----
 
 ## 🏆 Achievements
 
