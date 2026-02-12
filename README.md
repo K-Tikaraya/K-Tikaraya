@@ -79,22 +79,8 @@ I believe in learning deeply and building things that create real impact.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Tikaraya&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Tikaraya&theme=tokyonight" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/K-Tikaraya/K-Tikaraya/output/github-contribution-grid-snake-dark.svg" />
-</p>
----
-
 
 ---
 
